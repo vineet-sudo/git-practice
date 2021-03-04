@@ -15,6 +15,8 @@ public class HackerRank {
 		            int b = in.nextInt();
 		            int n = in.nextInt();
 		           //add new line
+		            
 		    }
+		        System.out.println("My Name Is Manik");
 	}
 }
