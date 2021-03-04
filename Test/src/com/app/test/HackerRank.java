@@ -14,7 +14,7 @@ public class HackerRank {
 		            int a = in.nextInt();
 		            int b = in.nextInt();
 		            int n = in.nextInt();
-		           
+		           //add new line
 		    }
 	}
 }
