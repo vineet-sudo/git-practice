@@ -18,5 +18,6 @@ public class HackerRank {
 		            
 		    }
 		        System.out.println("My Name Is Manik");
+		        System.out.println("My name is vineet singh");
 	}
 }
